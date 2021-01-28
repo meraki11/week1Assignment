@@ -10,4 +10,4 @@ console.log('New amount of money in wallet after purchase is: ' + (amtOfMoneyInW
 
 console.log('Number of friends made per year on earth is: ' + numberOfFriends / ageInYears);
 
-console.log('I am known as: ' + firstName + " " + middleInitial + " " + lastName);
+console.log('I am known as: ' + firstName + " " + middleInitial + " " + lastName);                                                                                  
